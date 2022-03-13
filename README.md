@@ -1,2 +1,2 @@
 # Judo-app
-This an application for Judo federation of Djibouti
+This is an application for Judo federation of Djibouti
